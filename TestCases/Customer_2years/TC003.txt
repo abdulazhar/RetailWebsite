@@ -1,0 +1,78 @@
+Enter the customer name :
+Abdul
+Enter the customer type: 
+ Employee 
+ Affiliate 
+ Customer
+Customer
+Enter the customer membership in years(no floating value):
+2
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+1
+Enter the Item name:
+SONY
+Enter the Item type: 
+ GROCERIES 
+ LAPTOP 
+ MOBILE
+LAPTOP
+Enter the Price:
+10000
+Item is added to the card
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+3
+Total Bill is 9025.0
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+1
+Enter the Item name:
+Carrot
+Enter the Item type: 
+ GROCERIES 
+ LAPTOP 
+ MOBILE
+GROCERIES
+Enter the Price:
+500
+Item is added to the card
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+4
+------------------------Shopping Cart------------------------------------------
+ItemName		ItemType		Price		Quantity
+SONY		    LAPTOP		   10000.0		   1
+Carrot		    GROCERIES		   500.0		   1
+------------------------------------------------------------------
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+
+3
+Total Bill is 9476.25
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit

@@ -1,0 +1,40 @@
+Enter the customer name :
+Azhar
+Enter the customer type: 
+ Employee 
+ Affiliate 
+ Customer
+Customer
+Enter the customer membership in years(no floating value):
+1
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+1
+Enter the Item name:
+DELL
+Enter the Item type: 
+ GROCERIES 
+ LAPTOP 
+ MOBILE
+MOBILE
+Enter the Price:
+10000
+Item is added to the card
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+3
+Total Bill is 9500.0
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit

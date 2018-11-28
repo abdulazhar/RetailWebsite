@@ -1,0 +1,108 @@
+Enter the customer name :
+Abdul
+Enter the customer type: 
+ Employee 
+ Affiliate 
+ Customer
+Employee
+Enter the customer membership in years(no floating value):
+1
+
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+1
+Enter the Item name:
+HP
+Enter the Item type: 
+ GROCERIES 
+ LAPTOP 
+ MOBILE
+LAPTOP
+Enter the Price:
+10000
+Item is added to the card
+
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+1
+Enter the Item name:
+SONY
+Enter the Item type: 
+ GROCERIES 
+ LAPTOP 
+ MOBILE
+LAPTOP
+Enter the Price:
+1000
+Item is added to the card
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+4
+------------------------Shopping Cart------------------------------------------
+ItemName		ItemType		Price		Quantity
+HP		    LAPTOP		   10000.0		   1
+SONY		    LAPTOP		   1000.0		   1
+------------------------------------------------------------------
+
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+2
+Enter the Item name to remove :
+SONY
+Item is removed from the cart
+
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+4
+------------------------Shopping Cart------------------------------------------
+ItemName		ItemType		Price		Quantity
+HP		    LAPTOP		   10000.0		   1
+------------------------------------------------------------------
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+3
+Total Bill is 6650.0
+
+
+Enter the Purchase option: 
+ 1.Add Item 
+ 2.Remove Item 
+ 3.Get the bill 
+ 4.Display the Cart 
+ 5.Exit
+5
+Shpping Over. Welcome Again
