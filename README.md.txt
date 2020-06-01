@@ -4,4 +4,4 @@
 3)Cart.java is the Cart class with functionalities like addItem, removeItem, displayItem, getBill
 4)ItemTypes.java is used to store the constant value of Item Types
 5)Shopping.java class will act as a driver class for retail shopping
-6)Placed the test cases and results under TestCases folder
+6)Placed the test cases and results under TestCases folder.
